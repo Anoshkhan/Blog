@@ -10,6 +10,7 @@ function App() {
   return (
     
     <Router>
+    <div className="cpntainer">
     <Navbar />
     <div className='max-w-screen-md mx-auto pt-20'>
     <Routes>
@@ -19,6 +20,7 @@ function App() {
     <Route path="/article/:name" element={<Article />} />
     
     </Routes>
+    </div>
     </div>
     </Router>
   );
