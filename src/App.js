@@ -10,7 +10,7 @@ function App() {
   return (
     
     <Router>
-    <div className="cpntainer">
+    <div className="container">
     <Navbar />
     <div className='max-w-screen-md mx-auto pt-20'>
     <Routes>

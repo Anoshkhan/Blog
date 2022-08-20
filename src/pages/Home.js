@@ -2,7 +2,7 @@ import React from 'react';
 
 const Home = () =>{
     return(
-        <div className='mb-20'>
+        <div className='mb-20 mx-2 w-1/1'>
             <h1 className='sm:text-4xl text-2xl font-bold my-6 text-gray-900 '>Hello, Wecome To My Blog</h1>
             <p className='mx-auto leading-relaxed text-base mb-4'>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium 
             doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore 

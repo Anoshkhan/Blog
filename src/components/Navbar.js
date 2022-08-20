@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
     return(
         <>
-            <nav style={{width:"60%",margin:"0px 20%", padding:"8px 0px"}} className="  top-0  justify-center text-center fixed 
+            <nav className="  top-0  w-full justify-center text-center fixed 
             bg-gray-700 font-bold text-lg text-white ">
                 <ul>
                     <li className="inline-block py-4">
